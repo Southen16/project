@@ -14,6 +14,17 @@
 section {
   display: block;
 }
+header {
+    display: block;
+}
+header {
+    color: black;
+    margin: 10px;
+    text-align:left;
+    font-size: 1.8em;
+    font-weight: thin;
+    margin-top: 0;
+}
 code {
   display: block;
   text-align: left;
